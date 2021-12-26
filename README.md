@@ -3,13 +3,19 @@
 
 Referenze C++: https://en.cppreference.com/w/
 
-Link a Replit: https://replit.com/~
+Replit: https://replit.com/~
 
-Link Codewars: https://www.codewars.com/
+Codewars: https://www.codewars.com/
 
-Link CodinGame: https://www.codingame.com/
+CodinGame: https://www.codingame.com/
 
-Link Exercism: https://exercism.org/
+Exercism: https://exercism.org/
+
+FreeCodeCamp: https://www.freecodecamp.org/
+
+DevHints: https://devhints.io/
+
+DevDocs: https://devdocs.io/
 
 ## Tools, IDE's e Editors di Codice
 
